@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c5becdd-8190-4e9d-a9e1-db2c8705191f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FairDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoadedDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Terning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terning.iml" afterDir="false" />
+    <list default="true" id="6c5becdd-8190-4e9d-a9e1-db2c8705191f" name="Changes" comment="Tilføjet fair die og loaded die">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FairDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FairDie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoadedDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoadedDie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +59,16 @@
       <workItem from="1682326280799" duration="2341000" />
       <workItem from="1682424047913" duration="75000" />
       <workItem from="1682510634002" duration="1919000" />
-      <workItem from="1682514382432" duration="2189000" />
+      <workItem from="1682514382432" duration="3216000" />
     </task>
+    <task id="LOCAL-00001" summary="Tilføjet fair die og loaded die">
+      <created>1682517438086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682517438086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tilføjet fair die og loaded die" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tilføjet fair die og loaded die" />
   </component>
 </project>

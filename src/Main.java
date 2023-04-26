@@ -2,6 +2,11 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        Terning loadTerning = new LoadedDie(6);
+        int resultat = loadTerning.rul();
+        System.out.println(resultat);
+
+        /*
         Scanner scan = new Scanner(System.in);
         Terning terning = new Terning(6);
         Terning terning2 = new Terning(6);
@@ -22,7 +27,11 @@ public class Main {
                 terning2 = new Terning(6);
                 resultatet = terning.rul() + terning2.rul(); // opdaterer resultatet med den nye sum
                 System.out.println(resultatet);
+
+
             }
         }
+
+         */
     }
 }
